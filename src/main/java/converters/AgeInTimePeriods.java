@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class AgeInTimePeriods {
     public static void main(String[] args) {
         LocalDate today = LocalDate.now();
-        LocalDate bDay = getBDayDate(1996, 7, 26);
+        LocalDate bDay = getBDayDate(1973, 2, 11);
         Period lifePeriod = calculateLifePeriod(bDay, today);
         System.out.println("Current date: " + today);
         System.out.println("Your birthday date: " + bDay);
