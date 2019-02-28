@@ -1,10 +1,10 @@
-package converters;
+package tasks;
 
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.Scanner;
 
-public class AgeInTimePeriods {
+public class T03_AgeInSeconds {
     public static void main(String[] args) {
         LocalDate today = LocalDate.now();
         LocalDate bDay = getBDayDate(1973, 2, 11);

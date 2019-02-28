@@ -1,4 +1,4 @@
-package games;
+package tasks;
 
 import java.util.Random;
 import java.util.Scanner;

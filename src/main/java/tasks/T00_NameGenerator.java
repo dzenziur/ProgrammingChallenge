@@ -1,8 +1,8 @@
-package stringmanipulation;
+package tasks;
 
 import com.github.javafaker.Faker;
 
-public class NameGenerator {
+public class T00_NameGenerator {
     public static void main(String[] args) {
         Faker faker = new Faker();
 

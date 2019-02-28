@@ -1,8 +1,8 @@
-package converters;
+package tasks;
 
 import java.util.Scanner;
 
-public class TemperatureConverter {
+public class T02_TemperatureConverter {
     public static void main(String[] args) {
         double temperature;
         Scanner scanner = new Scanner(System.in);

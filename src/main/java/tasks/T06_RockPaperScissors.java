@@ -1,7 +1,9 @@
+package tasks;
+
 import java.util.Random;
 import java.util.Scanner;
 
-public class RockPaperScissors {
+public class T06_RockPaperScissors {
     public static void main(String[] args) {
         startGame();
     }

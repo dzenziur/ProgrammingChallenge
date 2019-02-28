@@ -2,9 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68599d8c-3f27-41a1-b186-d0394dd4f95f" name="Default Changelist" comment="03.Age Converter">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tasks/AgeInTimePeriods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tasks/CheckGC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tasks/FizzBuzz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tasks/GuessingGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tasks/NameGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tasks/RockPaperScissors$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tasks/RockPaperScissors$Move.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tasks/RockPaperScissors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tasks/TemperatureConverter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/converters/AgeInTimePeriods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/converters/AgeInTimePeriods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CheckGC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/CheckGC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/T05_FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RockPaperScissors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/T06_RockPaperScissors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/converters/AgeInTimePeriods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/T03_AgeInSeconds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/converters/TemperatureConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/T02_TemperatureConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/games/GuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/GuessingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stringmanipulation/NameGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/T00_NameGenerator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,76 +33,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-687444864">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="3140" />
-          <entry key="txt" value="148" />
-          <entry key="xml" value="36" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="3140" />
-          <entry key="PLAIN_TEXT" value="148" />
-          <entry key="XML" value="36" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="3" />
-          <entry key="java" value="7" />
-          <entry key="yml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="7" />
-          <entry key="YAML" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/converters/AgeInTimePeriods.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FizzBuzz.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tasks/T02_TemperatureConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/converters/TemperatureConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+            <state relative-caret-position="537">
+              <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -114,7 +70,18 @@
         <option value="$PROJECT_DIR$/src/main/java/AgeInTimePeriods.java" />
         <option value="$PROJECT_DIR$/src/main/java/converters/AgeInTimePeriods.java" />
         <option value="$PROJECT_DIR$/src/main/java/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CheckGC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tasks/CheckGC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RockPaperScissors.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tasks/T06_RockPaperScissors.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -141,7 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,20 +134,30 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ProgrammingChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541194778770" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyProject" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -199,56 +176,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FizzBuzz">
-    <configuration name="AgeInTimePeriods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="converters.AgeInTimePeriods" />
+  <component name="RunManager" selected="Application.CheckGC">
+    <configuration name="CheckGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.CheckGC" />
       <module name="ProgrammingChallenge" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
-      <module name="ProgrammingChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="GuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="games.GuessingGame" />
+      <option name="MAIN_CLASS_NAME" value="tasks.GuessingGame" />
       <module name="ProgrammingChallenge" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NameGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringmanipulation.NameGenerator" />
+    <configuration name="T02_TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.T02_TemperatureConverter" />
       <module name="ProgrammingChallenge" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="converters.TemperatureConverter" />
+    <configuration name="T03_AgeInSeconds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.T03_AgeInSeconds" />
+      <module name="ProgrammingChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T05_FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.T05_FizzBuzz" />
       <module name="ProgrammingChallenge" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NameGenerator" />
       <item itemvalue="Application.GuessingGame" />
-      <item itemvalue="Application.TemperatureConverter" />
-      <item itemvalue="Application.AgeInTimePeriods" />
-      <item itemvalue="Application.FizzBuzz" />
+      <item itemvalue="Application.T02_TemperatureConverter" />
+      <item itemvalue="Application.T03_AgeInSeconds" />
+      <item itemvalue="Application.T05_FizzBuzz" />
+      <item itemvalue="Application.CheckGC" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.AgeInTimePeriods" />
-        <item itemvalue="Application.TemperatureConverter" />
+        <item itemvalue="Application.CheckGC" />
+        <item itemvalue="Application.T05_FizzBuzz" />
+        <item itemvalue="Application.T03_AgeInSeconds" />
+        <item itemvalue="Application.T02_TemperatureConverter" />
         <item itemvalue="Application.GuessingGame" />
-        <item itemvalue="Application.NameGenerator" />
       </list>
     </recent_temporary>
   </component>
@@ -262,6 +245,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541011370624</updated>
+      <workItem from="1551349003573" duration="1553000" />
     </task>
     <task id="LOCAL-00001" summary="00.Name Generator">
       <created>1541012857793</created>
@@ -301,11 +285,14 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1553000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26226014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -313,9 +300,12 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32887402" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32887402" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -323,7 +313,10 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32887402" />
+      <window_info anchor="right" id="Maven" weight="0.32995737" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -334,8 +327,8 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.3295302" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="00.Name Generator" />
@@ -346,84 +339,95 @@
     <option name="LAST_COMMIT_MESSAGE" value="add new package converters" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.m2/repository/com/github/javafaker/javafaker/0.12/javafaker-0.12.jar!/es.yml">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javafaker/javafaker/0.12/javafaker-0.12.jar!/es.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-357" />
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/github/javafaker/javafaker/0.12/javafaker-0.12.jar!/com/github/javafaker/service/FakerIDN.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javafaker/javafaker/0.12/javafaker-0.12.jar!/com/github/javafaker/service/FakerIDN.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/github/javafaker/javafaker/0.12/javafaker-0.12.jar!/com/github/javafaker/Faker.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javafaker/javafaker/0.12/javafaker-0.12.jar!/com/github/javafaker/Faker.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
           <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/github/javafaker/javafaker/0.12/javafaker-0.12.jar!/com/github/javafaker/GameOfThrones.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/javafaker/javafaker/0.12/javafaker-0.12.jar!/com/github/javafaker/GameOfThrones.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/stringmanipulation/NameGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tasks/T00_NameGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/games/GuessingGame.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/time/format/DateTimeFormatter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/tasks/T03_AgeInSeconds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="184">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tasks/T05_FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state relative-caret-position="644">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/time/format/DateTimeFormatter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tasks/GuessingGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-718">
-          <caret line="534" column="36" selection-start-line="534" selection-start-column="36" selection-end-line="534" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/converters/AgeInTimePeriods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/converters/TemperatureConverter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tasks/CheckGC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        <state relative-caret-position="276">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FizzBuzz.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tasks/T06_RockPaperScissors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="456">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tasks/T02_TemperatureConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -484,7 +488,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -492,7 +495,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.github.javafaker:javafaker:0.12</last-edited>
+          <last-edited>Maven: com.github.mifmif:generex:1.0.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
