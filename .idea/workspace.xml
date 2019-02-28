@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68599d8c-3f27-41a1-b186-d0394dd4f95f" name="Default Changelist" comment="03.Age Converter">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/T27_FibonacciSequence.java" afterDir="false" />
-    </list>
+    <list default="true" id="68599d8c-3f27-41a1-b186-d0394dd4f95f" name="Default Changelist" comment="03.Age Converter" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,14 +24,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tasks/T27_FibonacciSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="34" column="54" lean-forward="true" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+            <state relative-caret-position="219">
+              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#getFibbonacci#0;class#T27_FibonacciSequence#0" />
                 <element signature="method#scanNumber#0;class#T27_FibonacciSequence#0" />
                 <element signature="method#printSequence#0;class#T27_FibonacciSequence#0" />
-                <element signature="method#printSequenceStream#0;class#T27_FibonacciSequence#0" />
               </folding>
             </state>
           </provider>
@@ -274,7 +271,7 @@
       <option name="presentableId" value="Default" />
       <updated>1541011370624</updated>
       <workItem from="1551349003573" duration="1761000" />
-      <workItem from="1551351266673" duration="3169000" />
+      <workItem from="1551351266673" duration="3787000" />
     </task>
     <task id="LOCAL-00001" summary="00.Name Generator">
       <created>1541012857793</created>
@@ -315,10 +312,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4930000" />
+    <option name="totallyTimeSpent" value="5548000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13166311" />
@@ -470,16 +467,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tasks/T27_FibonacciSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="34" column="54" lean-forward="true" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+        <state relative-caret-position="219">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#getFibbonacci#0;class#T27_FibonacciSequence#0" />
             <element signature="method#scanNumber#0;class#T27_FibonacciSequence#0" />
             <element signature="method#printSequence#0;class#T27_FibonacciSequence#0" />
-            <element signature="method#printSequenceStream#0;class#T27_FibonacciSequence#0" />
           </folding>
         </state>
       </provider>
