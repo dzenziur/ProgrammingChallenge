@@ -1,3 +1,3 @@
-# ProgrammingChallenge
+# ProgrammingChallengesV1.3
 A programming challenge for free time.
-![ScreenShot](https://github.com/dzenziur/ProgrammingChallenge/blob/master/challengeV1.3.png)
+![ScreenShot](https://raw.githubusercontent.com/dzenziur/ProgrammingChallenge/master/challengeV1.3.png)
