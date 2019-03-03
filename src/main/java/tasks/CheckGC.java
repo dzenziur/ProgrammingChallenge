@@ -8,9 +8,8 @@ public class CheckGC {
         System.out.println("Total JVM memory: " + rt.totalMemory());
         System.out.println("Before memory: " + rt.freeMemory());
 
-        Date d = null;
         for (int i = 0; i < 10000000; i++) {
-            d = new Date();
+            Date d = new Date();
             d = null;
         }
 
